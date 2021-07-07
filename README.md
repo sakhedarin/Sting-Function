@@ -1,1 +1,1 @@
-# Sting-Function
+# String-Function
